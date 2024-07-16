@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Fernando Santos 👋
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudadndo Desenvolvimento Front-end com HTML5, CSS3, Less, Sass e ferramentas de automatização como Grunt e Gulp
+- 🌱 Estou estudando Desenvolvimento Front-end com HTML5, CSS3, Less, Sass e ferramentas de automatização como Grunt e Gulp
 - 📫 Para me encontrar acesse: https://www.linkedin.com/in/fernandob-santos
 - 😄 Pronouns: ele/dele
   
